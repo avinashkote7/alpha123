@@ -1,0 +1,51 @@
+ body{
+    background-color: aquamarine;
+ }
+ #HeaderSection{
+    background-image: url(./images/acastro_STK103__01.jpg);
+    background-repeat: no-repeat;
+    background-size: 85px;
+    margin-top: 12px;
+    pointer-events: none;
+
+}
+#HeaderSection{
+    background-color: black
+}
+#HeaderSection{
+    color: white;
+}
+#HeaderSection div{
+    display: inline-block;
+}
+#HeaderSection div h1{
+    font-size: 22px;
+}
+#HeaderSection div h1{ flex: none;
+display: inline-block;
+font-size: 22px;
+padding-left: 100px;
+display: flex;
+
+}
+#HeaderSection div li{
+    display: inline-block;
+    font-size: 15px;
+    padding-left: 25px;
+    color:red ;
+} 
+#HeaderSection #left{
+    width: 50%;
+}
+#HeaderSection div ul li button{ flex: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: red;
+    background-color: transparent;
+}
+#HeaderSection #field-word{
+    width: 50%;
+
+}

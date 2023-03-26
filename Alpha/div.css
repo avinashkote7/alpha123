@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+
+}
+    div h1{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        line-height: 100vh;
+
+    }
